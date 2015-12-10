@@ -16,4 +16,4 @@ dyld: Library not loaded: @rpath/Alamofire.framework/Alamofire
   Reason: image not found
 ```
 
-Have been bangin my head against it hours now
+Have been banging my head against it hours now. What am I doing wrong ?
